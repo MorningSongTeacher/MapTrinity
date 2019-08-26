@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Map3Synthesis1</string>
+    <string name="my_location">我的位置</string>
+    <string name="no_data">没有更多数据</string>
+    <string name="wait">稍等</string>
+    <string name="no_latitude_and_longitude">该位置没有经纬度</string>
+
+    <string name="searchTitle">输入搜索关键字</string>
+    <string name="destination">目的地</string>
+    <string name="latitude">纬度</string>
+    <string name="longitude">经度</string>
+    <string name="no_more_than_50_locating_points">不能超过50个定位点</string>
+</resources>
