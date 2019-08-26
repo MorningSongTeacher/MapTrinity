@@ -22,13 +22,13 @@
 
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="a86e8e5253ff8fefcdc7cead355fb77d" />
+            android:value="自己的API" />
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="jEQgXvbllUpVLW2TlGrm81tg7yf1p8b9" />
+            android:value="自己的API" />
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyAlC5ck2VynXdutpDn35ozErw1joiwygDo" />
+            android:value="自己的API" />
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
